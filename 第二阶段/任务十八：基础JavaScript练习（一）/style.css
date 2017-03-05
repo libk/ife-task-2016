@@ -1,10 +1,14 @@
-form {
+.panel {
   float: left;
 }
 .field-1 {
   width: 400px;
-  margin: 50px 20px;
+  margin: 40px 20px;
 }
 .btn {
   margin: 10px 20px;
+}
+.field-2 {
+  margin: 50px 20px 0 450px;
+  height: 500px;
 }
