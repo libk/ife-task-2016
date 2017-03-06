@@ -11,4 +11,12 @@
 .field-2 {
   margin: 50px 20px 0 450px;
   height: 500px;
+  overflow: auto;
+  position: relative;
+}
+
+.bar {
+  position: absolute;
+  bottom: 50px;
+  border: 1px solid black;
 }
